@@ -1,14 +1,72 @@
 body {
-    background-color: #e7e9eb;
+    background-color: white;
   }
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#image{
+    display: flex;
+    height: auto;
+    max-width: 70%;
+    justify-content: center;
+    align-items: center;
+}
 
 .title {
     text-align: center;
 }
 
-#photo {
+ul {
+    text-align: left;
+}
 
-    
+li {
+    margin: 20px;
+}
+
+h3 {
+    margin: 45px 0px;
+}
+
+#img-div {
+    margin: 0 10px;
+    background-color: white;
     text-align: center;
+    padding-bottom: 5px;
     
 } 
+
+.achievements{
+    text-align: center;
+    margin: 0px 600px;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    font-size: 17px;
+    color: #333;
+    font-family: BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    background-color: #e7e9eb;
+    margin: 0px 3px 30px 3px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 1.5em;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#Singh-quote{
+    font-style: italic;
+    text-align: left;
+}
