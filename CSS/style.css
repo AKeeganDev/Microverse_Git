@@ -14,11 +14,10 @@ body {
 }
 
 #image{
-    display: flex;
+    display: block;
     height: auto;
-    max-width: 70%;
-    justify-content: center;
-    align-items: center;
+    max-width: 100%;
+
 }
 
 .title {
