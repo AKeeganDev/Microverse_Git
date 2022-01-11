@@ -24,6 +24,7 @@ body {
     text-align: center;
 }
 
+<<<<<<< HEAD
 ul {
     text-align: left;
 }
@@ -69,3 +70,8 @@ h3 {
     font-style: italic;
     text-align: left;
 }
+=======
+#photo {
+    text-align: center;
+} 
+>>>>>>> refs/remotes/origin/main
